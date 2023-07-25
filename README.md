@@ -7,3 +7,5 @@
 * [Sales Analysis](https://www.youtube.com/watch?v=8tfcVnoEL0c&t=6873s)
 * [DAX Functions Tutorial](https://www.youtube.com/watch?v=QJw4HkagVWc)
 * [Data Professional Survey](https://www.youtube.com/watch?v=pixlHHe_lNQ)
+* Electricity_in_Lithuania_recent_data: personal project
+* Electricity_in_Lithuania_2021-2023: personal project
